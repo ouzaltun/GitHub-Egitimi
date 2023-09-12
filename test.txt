@@ -4,3 +4,5 @@ v2v2
 Test branch eklendi
 
 Main branch reverse deneme
+
+çakışma olcak
