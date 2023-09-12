@@ -6,3 +6,4 @@ Test branch eklendi
 Main branch reverse deneme
 
 çakışma olcak
+çakışma testi
